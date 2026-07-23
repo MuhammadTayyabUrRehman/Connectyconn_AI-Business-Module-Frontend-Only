@@ -1,0 +1,6 @@
+{
+  "name": "CONNECTYCON",
+  "description": "AI-powered Professional Networking Platform & Business Advisor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
